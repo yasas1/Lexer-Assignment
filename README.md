@@ -1,4 +1,4 @@
-This is tokenize a assignment statement into lexers
+This is tokenized a assignment statement into lexers
 
 x = 10 + a ; 
 
