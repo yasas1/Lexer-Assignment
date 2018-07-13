@@ -1,5 +1,7 @@
-This is tokenized a assignment statement into lexers
+This is tokenized a expression statement into lexer tokens with Considering white spaces( \t\n)
+
+Eg:
 
 x = 10 + a ; 
 
-Tokenize---  <variable,x><assign,=><integer,10><operator,+><variable,a><end,;>
+Tokenize---  <variable,x> <assign,=> <integer,10> <operator,+> <variable,a><end,;>
